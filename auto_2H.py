@@ -17,9 +17,6 @@ need to be in the folder you are running the experiment. Afterwards, it is
 possible to start this script (“auto_2H.py”). 
 """
 
-# import expno position
-curdat = CURDATA()
-
 # Input - stock and first expno of series
 start = INPUT_DIALOG("Amazing automation from Martin",\
 "Starting parameters input",
