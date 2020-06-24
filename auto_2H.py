@@ -11,7 +11,7 @@ full name: auto_2H.py
 How to use this script
 All experimental datasets need to be prepared before running this script. All 
 the experiments in a series need to have an increasing number of expno without
-gaps. The stock also needs to be measured for each new series. Also, tubes 
+gaps. The stock needs to be measured for each new series. Also, tubes 
 need to be in increasing position in sample jet rack (except for stock). You 
 need to be in the folder you are running the experiment. Afterwards, it is 
 possible to start this script (“auto_2H.py”). 
